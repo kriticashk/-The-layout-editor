@@ -9,10 +9,10 @@ Layout editor in relative layout x-large(tablet variation)<br/>
 <img src="screenshots/layout_relativex-large.png" width="600px" height="300px"><br/>
 <br/>
 Layout editor in linear layout<br/>
-<img src="screenshots/layout_relative.gif" width="300px" height="600px"><br/>
+<img src="screenshots/layout_linear.png" width="300px" height="600px"><br/>
 
 the layout editor challenges<br/>
-<img src="screenshots/layout_linear.png" width="600px" height="300px"><br/>
+<img src="screenshots/layoutchallenge.gif" width="600px" height="300px"><br/>
 
 Layout editor homework<br/>
 <img src="screenshots/layoutconstraint_homework.gif" width="300px" height="600px"><br/>
