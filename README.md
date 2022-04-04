@@ -21,4 +21,23 @@ Layout editor homework in landscape view<br/>
 Layout editor homework in x-large(tablet variation)view<br/>
 <img src="screenshots/layoutconstraint_homeworkx-large.gif" width="600px" height="300px"><br/>
 
+<b>Question 1</b><br/>
+<p>Which two layout constraint attributes on the Zero Button position it vertically equal distance between the other two Button elements?<br/>
+-> android:layout_marginBottom="8dp"<br/>
+-> android:layout_marginTop="8dp"</p>
 
+<b>Question 2</b><br/>
+<p>Which layout constraint attribute on the Zero Button positions it horizontally in alignment with the other two Button elements?<br/>
+  -> app:layout_constraintLeft_toLeftOf="parent"
+</p>
+
+<b>Question 3</b>
+<p>What is the correct signature for a method used with the android:onClick XML attribute?<br/>
+  -> public void callMethod(View view)
+</p>
+
+<b>Question 4</b>
+<p>The click handler for the Count Button starts with the following method signature:<br/>
+public void countUp(View view)<br/>
+Which of the following techniques is more efficient to use within this handler to change the Button element's background color?<br/>
+  -> Use the view parameter that is passed to the click handler with setBackgroundColor(): view.setBackgroundColor()</p>
