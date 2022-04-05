@@ -20,7 +20,12 @@ Layout editor in relative layout x-large(tablet variation)<br/>
 
 <p>LinearLayout is a ViewGroup that arranges its collection of views in a horizontal or vertical row. A LinearLayout is one of the most common layouts because it is simple and fast. It is often used within another view group to arrange UI elements horizontally or vertically.</p>
 
-<img src="screenshots/layout_linear.png" width="300px" height="600px"><br/>
+<img src="screenshots/Linear_layout.gif" width="300px" height="600px"><br/>
+
+Layout editor in linear layout in landscape view
+
+<img src="screenshots/linearlayout_land.png" width="600px" height="300px"><br/>
+
 
 <b>The layout editor challenges</b><br/>
 
